@@ -1,6 +1,6 @@
 # Nuxt 2.8 scaffold
 
->  Nuxt 2.8 scaffold
+>  Nuxt 2.8 scaffold demonstating missing theme classes
 
 
 
